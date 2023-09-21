@@ -25,7 +25,7 @@ LinkedIn Post Link (for this task): [Task 6 LinkedIn Post](https://www.linkedin.
 ## Task 7 - Stock Market Prediction using Numerical and Textual Analysis
 Task-7 involved creating a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices and sentimental analysis of news headlines. The stock analyzed and predicted was SENSEX (S&P BSE SENSEX).
 
-LinkedIn Post Link (for this task): [Task 6 LinkedIn Post](https://www.linkedin.com/posts/deepak-kaura-66a903162_datascience-machinelearning-tsf-activity-6754401547393781760-MlxH)
+LinkedIn Post Link (for this task): [Task 7 LinkedIn Post](https://www.linkedin.com/posts/deepak-kaura-66a903162_datascience-machinelearning-tsf-activity-6754401547393781760-MlxH)
 
 Your feedback on these tasks is highly appreciated!
 
